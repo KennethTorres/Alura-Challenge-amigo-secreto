@@ -9,7 +9,7 @@ Esta aplicación web sencilla y divertida te permite organizar sorteos de amigo 
 
     CSS3
 
-    JavaScript (Vanilla o con Framework según corresponda)
+    JavaScript
 
 🔧 Instalación
 
